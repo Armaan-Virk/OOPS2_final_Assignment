@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GymManagementSystem.AttendanceTrackingPage">
+    <VerticalStackLayout Spacing="15" Padding="15">
+        <Label Text="Record Attendance" FontSize="24" HorizontalOptions="Center" />
+
+        <Entry Placeholder="Enter Member ID" x:Name="MemberIDInput" />
+        <Button Text="Mark Attendance" Clicked="OnMarkAttendanceClicked" />
+
+        <ListView x:Name="AttendanceList" />
+    </VerticalStackLayout>
+</ContentPage>

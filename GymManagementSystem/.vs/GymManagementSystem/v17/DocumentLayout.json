@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|c:\\users\\virka\\onedrive\\desktop\\manjinder\\final_assignment_oops2\\gymmanagementsystem\\schedulemanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|solutionrelative:schedulemanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|c:\\users\\virka\\onedrive\\desktop\\manjinder\\final_assignment_oops2\\gymmanagementsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|c:\\users\\virka\\onedrive\\desktop\\manjinder\\final_assignment_oops2\\gymmanagementsystem\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|c:\\users\\virka\\onedrive\\desktop\\manjinder\\final_assignment_oops2\\gymmanagementsystem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5072ED70-2AB2-4BC2-A431-5E677E611C62}|GymManagementSystem.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1431099526:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:542752619:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleManagementPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\ScheduleManagementPage.xaml",
+              "RelativeDocumentMoniker": "ScheduleManagementPage.xaml",
+              "ToolTip": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\ScheduleManagementPage.xaml",
+              "RelativeToolTip": "ScheduleManagementPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T06:07:37.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T01:15:12.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T01:12:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Virka\\OneDrive\\Desktop\\Manjinder\\Final_Assignment_OOPS2\\GymManagementSystem\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T08:01:48.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

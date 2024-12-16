@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GymManagementSystem.SubscriptionTrackingPage">
+    <VerticalStackLayout Spacing="15" Padding="15">
+        <Label Text="Track Subscriptions" FontSize="24" HorizontalOptions="Center" />
+
+        <Entry Placeholder="Enter Member ID" x:Name="MemberIDInput" />
+        <Entry Placeholder="Enter Subscription Expiry Date" x:Name="ExpiryDateInput" />
+
+        <Button Text="Update Subscription" Clicked="OnUpdateSubscriptionClicked" />
+
+        <ListView x:Name="SubscriptionList" />
+    </VerticalStackLayout>
+</ContentPage>
